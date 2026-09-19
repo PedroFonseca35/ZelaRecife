@@ -3,15 +3,15 @@
 # Tema: Monitoramento e Fiscalização de Descarte Irregular
 
 ## Equipe
-* **Nome da Equipe:** Zela Recife
+* ** Zela Recife**
 * **Integrantes e Responsabilidades:**
-  * **Pedro Henrique Félix da Fonseca** — Líder do Projeto, Desenvolvedor Full Stack e Gestor de Requisitos.
+  * **Pedro Henrique Félix da Fonseca** — Líder do Projeto, Desenvolvedor e Gestor de Requisitos.
 
 ## Descrição do Problema
 A cidade do Recife apresenta aproximadamente 1.700 pontos de descarte irregular de resíduos, compreendendo entulhos, materiais volumosos, restos de poda e lixo domiciliar, os quais demandam ações de limpeza constantes. O desafio identificado reside na escassez de recursos tecnológicos para monitorar esses locais em tempo real, situação aliada à impunidade associada ao ato de descarte irregular e pela dificuldade de autuação dos infratores, sobretudo pessoas físicas e responsáveis por obras geradoras de resíduos. Tal cenário acarreta impactos negativos sobre a micro e a macrodrenagem urbana, contribuindo para a ocorrência de alagamentos, degradação do espaço urbano, geração de custos não planejados para a administração pública e o aumento dos riscos à saúde da população.
 
 ## Desafio CORETO
-* **Link do Desafio:** []
+* **Link do Desafio:** [https://sites.google.com/recife.pe.gov.br/eita-3-ciclo/desafios/desafio-2?authuser=0]
 
 ## Objetivo da Solução e Público Beneficiado
 * **Objetivo:** Criar um formulário web simples e direto para que o cidadão registre ocorrências de descarte irregular informando o endereço/CEP e os detalhes do local, gerando uma lista organizada para a gestão municipal.
