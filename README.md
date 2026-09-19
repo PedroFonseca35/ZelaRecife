@@ -3,7 +3,7 @@
 # Tema: Monitoramento e Fiscalização de Descarte Irregular
 
 ## Equipe
-* ** Zela Recife**
+* **Zela Recife**
 * **Integrantes e Responsabilidades:**
   * **Pedro Henrique Félix da Fonseca** — Líder do Projeto, Desenvolvedor e Gestor de Requisitos.
 
