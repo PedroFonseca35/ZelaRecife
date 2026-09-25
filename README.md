@@ -11,7 +11,8 @@
 A cidade do Recife apresenta aproximadamente 1.700 pontos de descarte irregular de resíduos, compreendendo entulhos, materiais volumosos, restos de poda e lixo domiciliar, os quais demandam ações de limpeza constantes. O desafio identificado reside na escassez de recursos tecnológicos para monitorar esses locais em tempo real, situação aliada à impunidade associada ao ato de descarte irregular e pela dificuldade de autuação dos infratores, sobretudo pessoas físicas e responsáveis por obras geradoras de resíduos. Tal cenário acarreta impactos negativos sobre a micro e a macrodrenagem urbana, contribuindo para a ocorrência de alagamentos, degradação do espaço urbano, geração de custos não planejados para a administração pública e o aumento dos riscos à saúde da população.
 
 ## Desafio CORETO
-* **Link do Desafio:** [https://sites.google.com/recife.pe.gov.br/eita-3-ciclo/desafios/desafio-2?authuser=0]
+* **Link do Coreto:** [https://coreto.app.emprel.gov.br/oportunidades/e-i-t-a-labs-recife--n3RGu6uoQeuZ-msuB3fw0Q]
+* **Link do E.I.T.A! LABS Recife:** [https://sites.google.com/recife.pe.gov.br/eita-3-ciclo/desafios/desafio-2?authuser=0]
 
 ## Objetivo da Solução e Público Beneficiado
 * **Objetivo:** Criar um formulário web para que o cidadão registre ocorrências de descarte irregular informando o endereço/CEP e os detalhes do local, gerando uma lista para a gestão municipal.
