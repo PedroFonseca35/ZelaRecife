@@ -1,0 +1,1 @@
+export const STATUS = ["Pendente", "Em Análise", "Agendado", "Concluído"];
